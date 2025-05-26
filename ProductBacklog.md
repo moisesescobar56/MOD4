@@ -54,6 +54,7 @@ Site map:
 - historial_venta.html
 - registrar_venta.html
 - reporte1.html
+- reporte2.html
 ```
 
 ### Prompt 3:
