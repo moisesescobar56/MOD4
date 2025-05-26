@@ -70,6 +70,7 @@ Usa la plantilla y genera un menu de navegación en el panel lateral, El Paraisa
   - Empleado (empleado.html)
 - Reportes
   - reporte1.html
+  - reporte2.html
 ```
 ### Generar prototipos
 Elabora los prototipos de las historias de usuario en base a sus criterios de aceptacion.
