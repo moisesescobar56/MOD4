@@ -71,7 +71,7 @@ Usa la plantilla y genera un menu de navegación en el panel lateral, El Paraisa
 - Reportes
   - reporte1.html
 ```
-
+### Generar prototipos
 Elabora los prototipos de las historias de usuario en base a sus criterios de aceptacion.
 - HU1: Administracion de clientes
 - HU2: Registro de cliente
