@@ -33,13 +33,12 @@ Aprender a generar prototipos funcionales de interfaces web a partir de criterio
 └── Reportes
     └── Reporte 1 → reporte1.html
 ```
-
-Prompt 1:
+### Prompt 1:
 ```plaintext
 Usare SB Admin 2 como template, quiero generar prototipos a partir de requerimientos de aceptación de historias de usuario. Cuando recibas los criterios genera el contenido.
 ```
 
-Prompt 2:
+### Prompt 2:
 ```plaintext
 Site map:
 - index.html
@@ -57,7 +56,7 @@ Site map:
 - reporte1.html
 ```
 
-Prompt 3:
+### Prompt 3:
 ```plaintext
 Usa la plantilla y genera un menu de navegación en el panel lateral, El Paraisal donde tenga enlaces a:
 
@@ -74,6 +73,6 @@ Usa la plantilla y genera un menu de navegación en el panel lateral, El Paraisa
 ```
 
 Elabora los prototipos de las historias de usuario en base a sus criterios de aceptacion.
-- Citerios de aceptacion HU1: Administracion de clientes
-- Citerios de aceptacion HU2: Registro de cliente
+- HU1: Administracion de clientes
+- HU2: Registro de cliente
 
