@@ -75,7 +75,7 @@ Usa la plantilla y genera un menu de navegación en el panel lateral, El Paraisa
   - reporte1.html
   - reporte2.html
 ```
-### Generar prototipos
+## Generar prototipos
 Elabora los prototipos de las historias de usuario en base a sus criterios de aceptacion.
 - HU1: Administracion de cliente
 ```plaintext
@@ -113,4 +113,34 @@ Mensajes de salida:
     Al guardar al Cliente se debe mostrar un mensaje de confirmación que se realizó correctamente el proceso.
     En caso de error, se debe mostrar un mensaje que informe el error ocurrido.
 ```
+- HU3: Administracion de producto
+```plaintext
+Proceso de BUSCAR:
+    Agrega un botón de NUEVO que redireccione a la pantalla de registro de producto.
+    Agregar un filtro para buscar producto por: Nombre(Campo) y Categoria (Lista desplegable)
+    La tabla de reporte de productos solo tendrá las columnas:
+        ProductoId
+        Categoria
+        Nombre
+        Precio
+Proceso de EDITAR:
+    Agregar un botón de EDITAR en la tabla que sea amarillo.
+    Para editar un registro primero se debe dar clic al boton del registro de la tabla.
+    Al dar clic en el botón de EDITAR debe redireccionar y mostrar un formulario para editar los datos del producto seleccionado y Guardar los cambios en caso de realizar alguno.
+Proceso de ELIMINAR:
+    Agregar un botón de ELIMINAR en la tabla que sea rojo.
+     Para eliminar un registro primero se debe dar clic al boton del registro de la tabla.
+    Al dar clic en el botón de ELIMINAR se presentará una ventana de confirmación con el mensaje "¿Está seguro de eliminar el registro seleccionado?" y con dos opciones: Confirmar o Cancelar.
+```
+- HU2: Registro de Producto
+```plaintext
+﻿Datos de entrada:
+    Categoria (Obligatorio, Lista desplegable)
+    Nombre (Obligatorio)
+    Precio (Obligatorio)
+Se debe mostrar un botón para GUARDAR en color azul y otro botón para CANCELAR el proceso que sea rojo que redireccione a la página de administración de producto. 
 
+Mensajes de salida:
+    Al guardar el producto se debe mostrar un mensaje de confirmación que se realizó correctamente el proceso.
+    En caso de error, se debe mostrar un mensaje que informe el error ocurrido.
+```
