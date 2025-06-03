@@ -74,6 +74,8 @@ Usa la plantilla y genera  el archivo blank.html con un menu de navegación comp
 3. Reportes
   - Ventas por periodo (reporte1.html)
   - Inventario (reporte2.html)
+
+Opcion de iniciar y cerrar sesion en la esquina superior derecha.
 ```
 ## Generar prototipos
 Elabora los prototipos de las historias de usuario en base a sus criterios de aceptacion.
