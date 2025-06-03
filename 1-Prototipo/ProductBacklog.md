@@ -37,7 +37,7 @@ Aprender a generar prototipos funcionales de interfaces web a partir de criterio
 # Guia de Prompts
 ### Prompt 1:
 ```plaintext
-Usare SB Admin 2 como template, quiero generar prototipos a partir de requerimientos de aceptación de historias de usuario,  Cuando recibas los criterios genera el contenido incluyendo la etiqueta el container-fluid.
+Usare SB Admin 2 como template, quiero generar prototipos a partir de requerimientos de aceptación de historias de usuario,  Cuando recibas los criterios de aceptacion genera el contenido incluyendo la etiqueta "div" del container-fluid.
 ```
 
 ### Prompt 2:
@@ -70,9 +70,8 @@ Usa la plantilla y genera  el archivo blank.html con un menu de navegación comp
 2. Mantenimiento
   - Producto (producto.html)
   - Categoría (categoria.html)
-3. Seguridad
   - Empleado (empleado.html)
-4. Reportes
+3. Reportes
   - Ventas por periodo (reporte1.html)
   - Inventario (reporte2.html)
 ```
