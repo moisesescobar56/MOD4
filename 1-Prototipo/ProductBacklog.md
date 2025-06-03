@@ -1,4 +1,4 @@
-# Diseño de Prototipos de Alta Fidelidad con ChatGPT
+# Diseño de Prototipos con ChatGPT
 
 ## Objetivo
 Aprender a generar prototipos funcionales de interfaces web a partir de criterios de aceptación de historias de usuario, utilizando **ChatGPT** como asistente de desarrollo y el template **SB Admin 2** con tecnologías web: **HTML**, **CSS** y **JavaScript**.
