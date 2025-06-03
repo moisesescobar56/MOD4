@@ -61,7 +61,7 @@ Site map:
 
 ### Prompt 3:
 ```plaintext
-Usa la plantilla y genera un menu de navegación compacto con subitems en el panel lateral, del negocio El Paraisal donde tenga enlaces a:
+Usa la plantilla y genera  el archivo blank.html con un menu de navegación compacto con subitems en el panel lateral, del negocio El Paraisal donde tenga enlaces a:
 
 1. Venta
  - Registrar (venta.html)
