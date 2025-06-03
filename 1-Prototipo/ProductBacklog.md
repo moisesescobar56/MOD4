@@ -61,19 +61,20 @@ Site map:
 
 ### Prompt 3:
 ```plaintext
-Usa la plantilla y genera un menu de navegación en el panel lateral, El Paraisal donde tenga enlaces a:
+Usa la plantilla y genera un menu de navegación compacto con subitems en el panel lateral, del negocio El Paraisal donde tenga enlaces a:
 
-- Venta
+1. Venta
  - Registrar (venta.html)
  - Historial (historial.html)
  - Cliente (cliente.html)
-- Mantenimiento
+2. Mantenimiento
   - Producto (producto.html)
   - Categoría (categoria.html)
+3. Seguridad
   - Empleado (empleado.html)
-- Reportes
-  - reporte1.html
-  - reporte2.html
+4. Reportes
+  - Ventas por periodo (reporte1.html)
+  - Inventario (reporte2.html)
 ```
 ## Generar prototipos
 Elabora los prototipos de las historias de usuario en base a sus criterios de aceptacion.
